@@ -3,7 +3,7 @@ Class dc.aoc2016.Day1 Extends dc.aoc2016.Base
 
 Parameter InputFile = "input1.txt";
 
-// w ##class(dc.aoc2022.Day1).Run()
+// w ##class(dc.aoc2016.Day1).Run()
 
 ClassMethod Run(verbose = 0) As %Integer
 {
