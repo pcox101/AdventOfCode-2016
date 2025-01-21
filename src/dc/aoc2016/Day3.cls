@@ -55,7 +55,7 @@ ClassMethod Run2(verbose = 0)
       }
     }
 
-    w "Part 1: ",counter,!
+    w "Part 2: ",counter,!
 
     return
 }
