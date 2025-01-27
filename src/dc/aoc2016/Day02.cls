@@ -1,4 +1,4 @@
-Class dc.aoc2016.Day2 Extends dc.aoc2016.Base
+Class dc.aoc2016.Day02 Extends dc.aoc2016.Base
 {
 
 // w ##class(dc.aoc2016.Day1).Run()
